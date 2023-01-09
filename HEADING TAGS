@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <title>heading tags</title>
+    </head>
+    <body>
+        <h1>PYTHON</h1>
+        <P>Easy to learn and object oriented languaage</P>
+        <h2>JAVA</h2>
+        <p>Java is a secure language</p>
+        <h3>MERN</h3>
+        <P>User interface language</P>
+    </body>
+</html>
